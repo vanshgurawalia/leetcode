@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshgurawalia/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/vanshgurawalia/leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/vanshgurawalia/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshgurawalia/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshgurawalia/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/vanshgurawalia/leetcode/tree/master/0036-valid-sudoku) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshgurawalia/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vanshgurawalia/leetcode/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/vanshgurawalia/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
