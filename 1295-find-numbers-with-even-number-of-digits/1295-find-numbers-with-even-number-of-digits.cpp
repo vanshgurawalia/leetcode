@@ -9,12 +9,10 @@ public:
         return count%2 == 0;
     }
 public:
-    int findNumbers(vector<int>& nums) { 
-        int evencount = 0 ;
+    int findNumbers(vector<int>& nums) {
+        int evencount = 0;
         for(int i=0 ; i<nums.size() ; i++){
-            if(evendigit(nums[i])){
-                evencount++;
-            }
+            if(evendigit(nums[i])) evencount++;
         }
         return evencount;
     }
