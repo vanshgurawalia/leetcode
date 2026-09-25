@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vanshgurawalia/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshgurawalia/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vanshgurawalia/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/vanshgurawalia/leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/vanshgurawalia/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/vanshgurawalia/leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshgurawalia/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/vanshgurawalia/leetcode/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshgurawalia/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Counting Sort
 |  |
