@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vanshgurawalia/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshgurawalia/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/vanshgurawalia/leetcode/tree/master/0198-house-robber) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vanshgurawalia/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vanshgurawalia/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/vanshgurawalia/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vanshgurawalia/leetcode/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshgurawalia/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/vanshgurawalia/leetcode/tree/master/1051-height-checker) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vanshgurawalia/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
