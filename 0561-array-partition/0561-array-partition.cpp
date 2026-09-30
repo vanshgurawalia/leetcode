@@ -11,13 +11,13 @@ public:
         bool isevenidx = true;
         int maxsum = 0;
 
-        for(int i=0 ; i<2*k+1 ; i++){
+        for(int i=0; i<2*k+1 ; i++){
             while(countarr[i]>0){
-                maxsum = maxsum + (isevenidx ? i-k : 0);
+                maxsum+= isevenidx ? i-k : 0;
                 countarr[i]--;
                 isevenidx = !isevenidx;
+            }
         }
-    }
-    return maxsum;
+        return maxsum;
     }
 };
