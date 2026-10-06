@@ -4,9 +4,8 @@ struct Node{
     Node(int x){
         val = x;
         next = nullptr;
-    } 
+    }
 };
-
 class MyLinkedList {
     Node* head;
     int size;
@@ -17,11 +16,10 @@ public:
     }
     
     int get(int index) {
-        if(index<0) return -1;
-        if(index>=size) return -1;
+        if(index<0 || index>=size) return -1;
 
         Node* curr = head;
-        for(int i=0; i<=index ; i++){
+        for(int i=0; i<=index; i++){
             curr = curr->next;
         }
         return curr->val;
@@ -32,16 +30,15 @@ public:
     }
     
     void addAtTail(int val) {
-         addAtIndex(size,val);
+        addAtIndex(size,val);
     }
     
     void addAtIndex(int index, int val) {
-        if(index<0) return;
-        if(index>size) return;
+        if(index<0 || index>size) return;
 
         Node* curr = head;
-        for(int i=0; i<index; i++){
-            curr = curr->next;
+        for(int i=0 ; i<index; i++){
+            curr= curr->next;
         }
         Node* newnode = new Node(val);
         newnode->next = curr->next;
@@ -50,11 +47,10 @@ public:
     }
     
     void deleteAtIndex(int index) {
-        if(index<0) return;
-        if(index>=size) return;
+        if(index<0 || index>=size) return;
 
         Node* curr = head;
-        for(int i=0; i<index ; i++){
+        for(int i=0; i<index; i++){
             curr = curr->next;
         }
         Node* target = curr->next;
