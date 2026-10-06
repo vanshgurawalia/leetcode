@@ -16,20 +16,19 @@ public:
 
         while(curr!=nullptr){
             curr = curr->next;
-            len+=1;
+            len++;
         }
+        ListNode* dummy = new ListNode(0,head);
+        int jumps = len-n;
+        ListNode* prev = dummy;
 
-         ListNode* dummy = new ListNode(0, head);
-         int jumps = len-n;
-         ListNode* prev = dummy;
-
-         while(jumps > 0){
+        while(jumps>0){
             prev = prev->next;
             jumps--;
-         }
-
-         prev->next = prev->next->next;
-
-         return dummy->next;
+        }
+        ListNode* target = prev->next;
+        prev->next = prev->next->next;
+        delete target;
+        return dummy->next;
     }
 };
