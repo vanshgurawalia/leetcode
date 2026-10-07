@@ -12,14 +12,15 @@ public:
     }
 public:
     bool isHappy(int n) {
-        unordered_set<int>seen;
+        int slow = n;
+        int fast = n;
 
-        while(n!=1){
-            if(seen.count(n)) return false;
-            seen.insert(n);
+        while(true){
+            slow = sqrofnum(slow);
+            fast = sqrofnum(sqrofnum(fast));
 
-            n = sqrofnum(n);
+            if(fast == 1) return true;
+            if(slow == fast) return false;
         }
-        return true;
     }
 };
