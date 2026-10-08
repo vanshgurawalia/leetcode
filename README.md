@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vanshgurawalia/leetcode/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshgurawalia/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/vanshgurawalia/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshgurawalia/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vanshgurawalia/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vanshgurawalia/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vanshgurawalia/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/vanshgurawalia/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/vanshgurawalia/leetcode/tree/master/1051-height-checker) |
 ## Bubble Sort
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vanshgurawalia/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vanshgurawalia/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/vanshgurawalia/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/vanshgurawalia/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vanshgurawalia/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vanshgurawalia/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Trie
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/vanshgurawalia/leetcode/tree/master/0707-design-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vanshgurawalia/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
