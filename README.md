@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vanshgurawalia/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/vanshgurawalia/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/vanshgurawalia/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/vanshgurawalia/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshgurawalia/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vanshgurawalia/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshgurawalia/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshgurawalia/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vanshgurawalia/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vanshgurawalia/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshgurawalia/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vanshgurawalia/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vanshgurawalia/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/vanshgurawalia/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vanshgurawalia/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshgurawalia/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshgurawalia/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vanshgurawalia/leetcode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/vanshgurawalia/leetcode/tree/master/1051-height-checker) |
 ## Memoization
 |  |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshgurawalia/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vanshgurawalia/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
