@@ -7,11 +7,11 @@ public:
             mp[stones[i]]++;
         }
 
-        int sum = 0;
+        int count = 0;
 
         for(int i=0 ; i<jewels.length() ; i++){
-            if(mp.count(jewels[i])) sum+=mp[jewels[i]];
+            if(mp.count(jewels[i])) count+=mp[jewels[i]];
         }
-        return sum;
+        return count;
     }
 };
