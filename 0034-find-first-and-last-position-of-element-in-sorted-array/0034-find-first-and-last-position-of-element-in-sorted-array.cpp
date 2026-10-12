@@ -25,7 +25,7 @@ public:
     }
 
     vector<int> searchRange(vector<int>& nums, int target) {
-       if(nums.size() == 0) return {-1,-1};
+       if(nums.empty()) return {-1,-1};
 
        int first = binarysearch(0, nums.size()-1, nums, target, true);
        if(first == -1) return {-1,-1};
