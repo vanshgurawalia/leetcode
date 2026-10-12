@@ -6,7 +6,7 @@ public:
     int firstBadVersion(int n) {
         int left = 0;
         int right = n;
-        int res = 1;
+        int res = -1;
 
         while(left<=right){
             int mid = left + (right-left)/2;
