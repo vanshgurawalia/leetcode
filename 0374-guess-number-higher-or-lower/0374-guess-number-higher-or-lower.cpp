@@ -16,16 +16,16 @@ public:
         int right = n;
 
         while(left<=right){
-            int num = left + (right-left)/2;
-            int mid = guess(num);
-            if(mid == -1){
-                right = num-1;
+            int mid = left + (right-left)/2;
+            int res = guess(mid);
+            if(res == -1){
+                right = mid-1;
             }
-            else if(mid == 1){
-                left = num+1;
+            else if(res == 1){
+                left = mid+1;
             }
             else{
-                return num;
+                return mid;
             }
         }
         return -1;
