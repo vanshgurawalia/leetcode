@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vanshgurawalia/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshgurawalia/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vanshgurawalia/leetcode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/vanshgurawalia/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshgurawalia/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vanshgurawalia/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vanshgurawalia/leetcode/tree/master/0198-house-robber) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vanshgurawalia/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vanshgurawalia/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshgurawalia/leetcode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/vanshgurawalia/leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/vanshgurawalia/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshgurawalia/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vanshgurawalia/leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/vanshgurawalia/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -296,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/vanshgurawalia/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vanshgurawalia/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vanshgurawalia/leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vanshgurawalia/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
