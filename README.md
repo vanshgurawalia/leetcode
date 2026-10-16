@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vanshgurawalia/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vanshgurawalia/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/vanshgurawalia/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vanshgurawalia/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/vanshgurawalia/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshgurawalia/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vanshgurawalia/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vanshgurawalia/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vanshgurawalia/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/vanshgurawalia/leetcode/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
