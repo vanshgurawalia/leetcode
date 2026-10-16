@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vanshgurawalia/leetcode/tree/master/0412-fizz-buzz) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vanshgurawalia/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshgurawalia/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/vanshgurawalia/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -346,4 +347,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vanshgurawalia/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/vanshgurawalia/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
