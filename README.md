@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vanshgurawalia/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vanshgurawalia/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vanshgurawalia/leetcode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/vanshgurawalia/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshgurawalia/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vanshgurawalia/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/vanshgurawalia/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/vanshgurawalia/leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vanshgurawalia/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/vanshgurawalia/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshgurawalia/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/vanshgurawalia/leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vanshgurawalia/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vanshgurawalia/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/vanshgurawalia/leetcode/tree/master/0771-jewels-and-stones) |
