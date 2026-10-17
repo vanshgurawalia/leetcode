@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vanshgurawalia/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshgurawalia/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/vanshgurawalia/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vanshgurawalia/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vanshgurawalia/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshgurawalia/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vanshgurawalia/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vanshgurawalia/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vanshgurawalia/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vanshgurawalia/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vanshgurawalia/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vanshgurawalia/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/vanshgurawalia/leetcode/tree/master/0412-fizz-buzz) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vanshgurawalia/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vanshgurawalia/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/vanshgurawalia/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vanshgurawalia/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshgurawalia/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vanshgurawalia/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshgurawalia/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshgurawalia/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/vanshgurawalia/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/vanshgurawalia/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshgurawalia/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vanshgurawalia/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshgurawalia/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/vanshgurawalia/leetcode/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/vanshgurawalia/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vanshgurawalia/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshgurawalia/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -185,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vanshgurawalia/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/vanshgurawalia/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vanshgurawalia/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vanshgurawalia/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vanshgurawalia/leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/vanshgurawalia/leetcode/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vanshgurawalia/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
