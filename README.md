@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vanshgurawalia/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vanshgurawalia/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vanshgurawalia/leetcode/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/vanshgurawalia/leetcode/tree/master/0461-hamming-distance) |
 ## Matrix
 |  |
 | ------- |
