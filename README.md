@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vanshgurawalia/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/vanshgurawalia/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vanshgurawalia/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/vanshgurawalia/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vanshgurawalia/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/vanshgurawalia/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/vanshgurawalia/leetcode/tree/master/0941-valid-mountain-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vanshgurawalia/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/vanshgurawalia/leetcode/tree/master/0739-daily-temperatures) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/vanshgurawalia/leetcode/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vanshgurawalia/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/vanshgurawalia/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vanshgurawalia/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
