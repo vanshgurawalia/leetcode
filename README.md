@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshgurawalia/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/vanshgurawalia/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vanshgurawalia/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshgurawalia/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vanshgurawalia/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/vanshgurawalia/leetcode/tree/master/0164-maximum-gap) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vanshgurawalia/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vanshgurawalia/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vanshgurawalia/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vanshgurawalia/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vanshgurawalia/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vanshgurawalia/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vanshgurawalia/leetcode/tree/master/0204-count-primes) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vanshgurawalia/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/vanshgurawalia/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/vanshgurawalia/leetcode/tree/master/0739-daily-temperatures) |
 ## Floyd's Cycle Finding Algorithm
