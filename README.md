@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshgurawalia/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/vanshgurawalia/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/vanshgurawalia/leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/vanshgurawalia/leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vanshgurawalia/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/vanshgurawalia/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vanshgurawalia/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshgurawalia/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/vanshgurawalia/leetcode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/vanshgurawalia/leetcode/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vanshgurawalia/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/vanshgurawalia/leetcode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vanshgurawalia/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshgurawalia/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/vanshgurawalia/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/vanshgurawalia/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vanshgurawalia/leetcode/tree/master/0739-daily-temperatures) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -371,5 +374,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vanshgurawalia/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vanshgurawalia/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
