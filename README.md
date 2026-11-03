@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/vanshgurawalia/leetcode/tree/master/1470-shuffle-the-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshgurawalia/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/vanshgurawalia/leetcode/tree/master/1929-concatenation-of-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vanshgurawalia/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/vanshgurawalia/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshgurawalia/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/vanshgurawalia/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vanshgurawalia/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
